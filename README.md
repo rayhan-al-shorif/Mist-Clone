@@ -1,3 +1,3 @@
-# Simple-Website-Using-Light-Box
+# Mist-Clone-Using-Light-Box
 
-Live Link: https://rayhan-al-shorif.github.io/Landing-Page-One
+Live Link: https://rayhan-al-shorif.github.io/Mist-Clone
